@@ -641,7 +641,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16051/index.m3u8
 #EXTINF:0 tvg-rec="0",DetectiveJam HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20209/index.m3u8
-#EXTINF:0 tvg-rec="3",Epic Drama
+#EXTINF:0 tvg-rec="3",Epic Drama HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1048/index.m3u8
 #EXTINF:0 tvg-rec="0",Eye Criminal HD
@@ -1553,9 +1553,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12031/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino Action
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12024/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14141/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino World HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31448/index.m3u8
@@ -1709,9 +1706,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/154/index.m3u8
 #EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/911/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1066/index.m3u8
 #EXTINF:0 tvg-rec="3",Дорама HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2131/index.m3u8
@@ -2171,6 +2165,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20031/index.m3u8
 #EXTINF:0 tvg-rec="0",TravelXP HD
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15018/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Космос
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30197/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Explore
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/163/index.m3u8
@@ -2483,6 +2480,135 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/108/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Kids
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31646/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV 101 долматинец
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30198/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Peppa Pig
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30159/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Аладдин
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30194/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Барбоскины
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30195/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Бивис и Батт
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30193/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Воскресное утро 90х
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30152/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Вспыш и чудо
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30155/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Вуди Вудпекер
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30154/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Гриффины
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30187/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Губка Боб
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30186/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Даша путешественница
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30181/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Енотки. Первые слова
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30189/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Еноты
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30188/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Корги по имени Моко
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30184/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Крепыш и команда
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30183/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Леди Баг
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30182/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Маша и медведь
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30180/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Микки Маус
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30179/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Мини
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30178/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Мишки Гамми
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30177/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Ну погоди
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30161/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Охотники за привидениями
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30175/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Очень странные делишки
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30176/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.Tv Панда и антилопа
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30174/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Подводная одиссея
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30196/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Простоквашино
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30160/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Пчелка Майя
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30173/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Рапунцель
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30172/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Рик и Морти
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30171/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.Tv Розовая пантера
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30170/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Свинка Пеппа
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30158/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Симпсоны
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30169/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Смешарики
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30168/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Смурфики
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30166/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Суперкрошки
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30165/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Тимон и Пумба
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30164/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Три кота
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30157/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Утиные истории
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30156/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Фиксики
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30153/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Чип и Деил
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30191/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Чудеса на виражах
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30192/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Щенячий патруль
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30167/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Экстрасенсы
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30190/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Disney Cartoon
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15027/index.m3u8
@@ -2666,6 +2792,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15231/index.m3u8
 #EXTINF:0 tvg-rec="3",Fast & Fun Box HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1018/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30199/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 1
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30200/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 2
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30201/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15232/index.m3u8
@@ -5117,6 +5252,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4001/index.m3u8
 #EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4000/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Детский мир 4K
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30150/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Советская классика 4K
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30151/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Том и Джерри 4K
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30162/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Кино 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11114/index.m3u8
