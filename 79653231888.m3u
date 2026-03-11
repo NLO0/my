@@ -110,6 +110,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2030/index.m3u8
 #EXTINF:0 tvg-rec="0",Дождь HD
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20083/index.m3u8
+#EXTINF:0 tvg-rec="3",Дума ТВ
+#EXTGRP:Информационные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5052/index.m3u8
 #EXTINF:0 tvg-rec="7",Известия
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2008/index.m3u8
@@ -149,6 +152,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14035/index.m3u8
 #EXTINF:0 tvg-rec="7",РБК
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/106/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК FHD
+#EXTGRP:Информационные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2404/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК HD
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16075/index.m3u8
@@ -329,6 +335,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2431/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/502/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Развлекательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2417/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ HD
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/237/index.m3u8
@@ -1943,9 +1952,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/904/index.m3u8
 #EXTINF:0 tvg-rec="7",Победа
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2003/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5052/index.m3u8
 #EXTINF:0 tvg-rec="3",Премиальное FHD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2410/index.m3u8
@@ -2153,6 +2159,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14001/index.m3u8
 #EXTINF:0 tvg-rec="7",National Geographic Wild
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/133/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic Wild FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2415/index.m3u8
 #EXTINF:0 tvg-rec="3",National Geographic Wild HD
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2067/index.m3u8
@@ -2807,9 +2816,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/141/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/228/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 UHD
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19432/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 2 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/234/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 UHD
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19431/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20028/index.m3u8
@@ -2831,9 +2846,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30201/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15232/index.m3u8
-#EXTINF:0 tvg-rec="0",FightBox HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20027/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 1
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20091/index.m3u8
@@ -3215,21 +3227,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20138/index.m3u8
 #EXTINF:0 tvg-rec="3",Окко Футбол HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6554/index.m3u8
-#EXTINF:0 tvg-rec="0",Олимпиада 2026 UHD 1
+#EXTINF:0 tvg-rec="0",Окко Футбол UHD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19430/index.m3u8
-#EXTINF:0 tvg-rec="0",Олимпиада 2026 UHD 2
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19431/index.m3u8
-#EXTINF:0 tvg-rec="0",Олимпиада 2026 UHD 3
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19373/index.m3u8
-#EXTINF:0 tvg-rec="0",Олимпиада 2026 UHD 4
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19374/index.m3u8
-#EXTINF:0 tvg-rec="0",Олимпиада 2026 UHD 5
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19432/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт FHD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2154/index.m3u8
@@ -3671,9 +3671,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19154/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15179/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9026/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31314/index.m3u8
@@ -5345,9 +5342,24 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9330/index.m3u8
 #EXTINF:0 tvg-rec="0",Наша Сибирь HD orig
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15145/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ UHD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19405/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19241/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН UHD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19404/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 UHD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19242/index.m3u8
 #EXTINF:0 tvg-rec="3",Сериал UHD 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5005/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ UHD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19238/index.m3u8
 #EXTINF:0 tvg-rec="0",21 Sextury
 #EXTGRP:18+
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12205/index.m3u8
