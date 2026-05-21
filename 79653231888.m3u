@@ -38,13 +38,13 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/128/index.m3u8
 #EXTINF:0 tvg-rec="7",РЕН ТВ HD
 #EXTGRP:Эфирные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2024/index.m3u8
-#EXTINF:0 tvg-rec="7",ТВЦ
+#EXTINF:0 tvg-rec="7",ТВ Центр
 #EXTGRP:Эфирные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/520/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ HD
+#EXTINF:0 tvg-rec="0",ТВ Центр HD
 #EXTGRP:Эфирные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19222/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ International
+#EXTINF:0 tvg-rec="0",ТВ Центр International
 #EXTGRP:Эфирные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15229/index.m3u8
 #EXTINF:0 tvg-rec="7",Звезда
@@ -110,9 +110,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2030/index.m3u8
 #EXTINF:0 tvg-rec="0",Дождь HD
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20083/index.m3u8
-#EXTINF:0 tvg-rec="3",Дума ТВ
-#EXTGRP:Информационные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5052/index.m3u8
 #EXTINF:0 tvg-rec="7",Известия
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2008/index.m3u8
@@ -149,6 +146,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9179/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Мир
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14035/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Канал Европа
+#EXTGRP:Информационные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12023/index.m3u8
 #EXTINF:0 tvg-rec="7",РБК
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/106/index.m3u8
@@ -161,6 +161,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16075/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 24
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/507/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 24 HD
+#EXTGRP:Информационные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15412/index.m3u8
 #EXTINF:0 tvg-rec="0",РТР Планета
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18042/index.m3u8
@@ -170,6 +173,369 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/715/index.m3u8
 #EXTINF:0 tvg-rec="3",Эхо ТВ
 #EXTGRP:Информационные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9339/index.m3u8
+#EXTINF:0 tvg-rec="3",365 дней ТВ
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2040/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/137/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/218/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Planet
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14027/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Planet HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20036/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Docu HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20153/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Mayday HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20159/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Stories HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20155/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/140/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/227/index.m3u8
+#EXTINF:0 tvg-rec="3",DocuBox HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/968/index.m3u8
+#EXTINF:0 tvg-rec="3",GNC HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/955/index.m3u8
+#EXTINF:0 tvg-rec="7",History 2 FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2033/index.m3u8
+#EXTINF:0 tvg-rec="3",History 2 HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1052/index.m3u8
+#EXTINF:0 tvg-rec="7",History FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/837/index.m3u8
+#EXTINF:0 tvg-rec="7",History HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/231/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2102/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty BBC FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15108/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Планета360 FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17026/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20140/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Experiment HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19412/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Макромир HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18194/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мегамир HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18195/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Микромир HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18193/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Открытия HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19415/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum TV HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20032/index.m3u8
+#EXTINF:0 tvg-rec="3",Nano
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2081/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14000/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14001/index.m3u8
+#EXTINF:0 tvg-rec="7",National Geographic Wild
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/133/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic Wild FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2415/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic Wild HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2067/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/210/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG TV
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/841/index.m3u8
+#EXTINF:0 tvg-rec="7",Spirit TV HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10073/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Космо HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11065/index.m3u8
+#EXTINF:0 tvg-rec="7",TERRA
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/230/index.m3u8
+#EXTINF:0 tvg-rec="3",TERRA HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2416/index.m3u8
+#EXTINF:0 tvg-rec="0",The Explorers HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16035/index.m3u8
+#EXTINF:0 tvg-rec="7",Top Secret
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/121/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel Channel HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/233/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel+Adventure
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/850/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP 4K
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20031/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15018/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Космос
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30197/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Explore
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/163/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju Explore HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6381/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/162/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/203/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Nature
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/161/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju Nature HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15225/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Planet HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9027/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31620/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Nature
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31618/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Science
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31617/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Travel
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31619/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31697/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31705/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Travel HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17063/index.m3u8
+#EXTINF:0 tvg-rec="3",Арсенал HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5044/index.m3u8
+#EXTINF:0 tvg-rec="0",Арт
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16141/index.m3u8
+#EXTINF:0 tvg-rec="7",Большая Азия HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2009/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2089/index.m3u8
+#EXTINF:0 tvg-rec="0",Вкус HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31921/index.m3u8
+#EXTINF:0 tvg-rec="7",Время
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/552/index.m3u8
+#EXTINF:0 tvg-rec="3",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2104/index.m3u8
+#EXTINF:0 tvg-rec="7",Доктор
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/512/index.m3u8
+#EXTINF:0 tvg-rec="0",Доктор HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20013/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашние Животные
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/158/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2074/index.m3u8
+#EXTINF:0 tvg-rec="7",ЖИВИ!
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/738/index.m3u8
+#EXTINF:0 tvg-rec="7",Загородная Жизнь
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/852/index.m3u8
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2022/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2100/index.m3u8
+#EXTINF:0 tvg-rec="7",Зоопарк
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/731/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоопарк HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9097/index.m3u8
+#EXTINF:0 tvg-rec="7",История
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/111/index.m3u8
+#EXTINF:0 tvg-rec="7",Кто есть кто
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2042/index.m3u8
+#EXTINF:0 tvg-rec="3",Кто Куда
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2112/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Вокруг HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15219/index.m3u8
+#EXTINF:0 tvg-rec="3",Мой Мир
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5008/index.m3u8
+#EXTINF:0 tvg-rec="7",Моя Планета
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/117/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2090/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Стихия
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9221/index.m3u8
+#EXTINF:0 tvg-rec="0",Моя Стихия HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7349/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2153/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2155/index.m3u8
+#EXTINF:0 tvg-rec="0",Научпоп HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31924/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4003/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Тема
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2118/index.m3u8
+#EXTINF:0 tvg-rec="0",Неизвестная Россия HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16087/index.m3u8
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/102/index.m3u8
+#EXTINF:0 tvg-rec="7",Океан HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/703/index.m3u8
+#EXTINF:0 tvg-rec="0",Патриот
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31928/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый Вегетарианский
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/833/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый космический HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/908/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Российский Национальный Канал HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31923/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5052/index.m3u8
+#EXTINF:0 tvg-rec="7",Поехали!
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/135/index.m3u8
+#EXTINF:0 tvg-rec="0",Поехали! HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14020/index.m3u8
+#EXTINF:0 tvg-rec="7",Психология
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2025/index.m3u8
+#EXTINF:0 tvg-rec="3",Ратник HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2119/index.m3u8
+#EXTINF:0 tvg-rec="3",РЖД ТВ
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9118/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия К
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/505/index.m3u8
+#EXTINF:0 tvg-rec="0",Сибирь 24 HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16000/index.m3u8
+#EXTINF:0 tvg-rec="7",Союз
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2016/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайна
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2059/index.m3u8
+#EXTINF:0 tvg-rec="7",Тайны Галактики
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2010/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайны Галактики HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5045/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2051/index.m3u8
+#EXTINF:0 tvg-rec="7",Точка.РФ FHD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/226/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка.РФ HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19251/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/532/index.m3u8
+#EXTINF:0 tvg-rec="0",Усадьба HD
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9071/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2064/index.m3u8
+#EXTGRP:Кино и сериалы
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18134/index.m3u8
 #EXTINF:0 tvg-rec="7",2x2
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/702/index.m3u8
@@ -218,15 +584,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31718/index.m3u8
 #EXTINF:0 tvg-rec="7",StrahTV Юнит HD
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11071/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Контент Моего Детства
-#EXTGRP:Развлекательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20001/index.m3u8
-#EXTINF:0 tvg-rec="0",VB ОСП-Студия
-#EXTGRP:Развлекательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16004/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Осторожно Модерн
-#EXTGRP:Развлекательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16005/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Каламбур
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31557/index.m3u8
@@ -1157,15 +1514,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6325/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Family Россия HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6326/index.m3u8
-#EXTINF:0 tvg-rec="0",START Air HD
+#EXTINF:0 tvg-rec="0",Start Air HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18036/index.m3u8
-#EXTINF:0 tvg-rec="0",START World HD
+#EXTINF:0 tvg-rec="0",Start World HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19248/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Horror HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31708/index.m3u8
 #EXTINF:0 tvg-rec="7",StrahTV Sky2000 HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11054/index.m3u8
@@ -1223,9 +1577,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2163/index.m3u8
 #EXTINF:0 tvg-rec="0",Suspense HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2049/index.m3u8
-#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14006/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP 80 S HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/13002/index.m3u8
@@ -1262,21 +1613,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18071/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18070/index.m3u8
-#EXTINF:0 tvg-rec="0",TVR
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14022/index.m3u8
-#EXTINF:0 tvg-rec="0",VB VHS Classic
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19429/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Российские Сериалы
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18043/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Сваты HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31624/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Спецназ-Диверсант HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20176/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS 60fps
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31637/index.m3u8
@@ -1751,42 +2087,48 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/914/index.m3u8
 #EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/549/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 1
+#EXTINF:0 tvg-rec="0",Зал 1 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2568/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 10
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2577/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 11
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 11 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2578/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 12
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 12 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2579/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 2
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 17 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2569/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 3
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20172/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 19 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2570/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 4
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20178/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 2 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2571/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 5
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18127/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 26 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2572/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 6
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6001/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 3 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2573/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 7
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 4 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2574/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 8
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 5 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 9
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 6 (Триколор)
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2576/index.m3u8
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 7 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18133/index.m3u8
 #EXTINF:0 tvg-rec="7",Иллюзион+
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2038/index.m3u8
@@ -1796,9 +2138,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/146/index.m3u8
 #EXTINF:0 tvg-rec="3",Индия
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1001/index.m3u8
-#EXTINF:0 tvg-rec="0",Индия HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19250/index.m3u8
 #EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5037/index.m3u8
@@ -1820,6 +2159,42 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/732/index.m3u8
 #EXTINF:0 tvg-rec="3",Кино ТВ HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2097/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 10 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 11 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 12 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2579/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 7 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 8 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 9 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2576/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинокомедия
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/145/index.m3u8
@@ -1889,6 +2264,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14033/index.m3u8
 #EXTINF:0 tvg-rec="7",Лавстори HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2034/index.m3u8
+#EXTINF:0 tvg-rec="3",Легенда
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9055/index.m3u8
 #EXTINF:0 tvg-rec="3",Любимое HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2106/index.m3u8
@@ -1943,9 +2321,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/741/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Хит HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16062/index.m3u8
-#EXTINF:0 tvg-rec="0",О!Кино
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20023/index.m3u8
 #EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/904/index.m3u8
@@ -2009,420 +2384,21 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/525/index.m3u8
 #EXTINF:0 tvg-rec="0",Твое ТВ HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14229/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Боевики HD
+#EXTINF:0 tvg-rec="0",Ужас ТВ HD
 #EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20172/index.m3u8
-#EXTINF:0 tvg-rec="3",Триколор Душевные песни
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6001/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Комедии
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18137/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18129/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18128/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Мир без границ
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18130/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18131/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Сибирские деревянные дома
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18133/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор След
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18127/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Смешарики
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18136/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Три богатыря
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18132/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ужасы HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20178/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18126/index.m3u8
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31708/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2039/index.m3u8
-#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16154/index.m3u8
 #EXTINF:0 tvg-rec="3",Хит HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2438/index.m3u8
 #EXTINF:0 tvg-rec="3",Шокирующее HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6299/index.m3u8
-#EXTINF:0 tvg-rec="3",365 дней ТВ
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2040/index.m3u8
-#EXTINF:0 tvg-rec="7",Animal Planet
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/137/index.m3u8
-#EXTINF:0 tvg-rec="7",Animal Planet HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/218/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Planet
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14027/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Planet HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20036/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Docu HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20153/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Mayday HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20159/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Stories HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20155/index.m3u8
-#EXTINF:0 tvg-rec="7",Discovery Channel
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/140/index.m3u8
-#EXTINF:0 tvg-rec="7",Discovery Channel HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/227/index.m3u8
-#EXTINF:0 tvg-rec="3",DocuBox HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/968/index.m3u8
-#EXTINF:0 tvg-rec="7",Galaxy
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2010/index.m3u8
-#EXTINF:0 tvg-rec="3",Galaxy HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5045/index.m3u8
-#EXTINF:0 tvg-rec="3",GNC HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/955/index.m3u8
-#EXTINF:0 tvg-rec="7",History 2 FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2033/index.m3u8
-#EXTINF:0 tvg-rec="3",History 2 HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1052/index.m3u8
-#EXTINF:0 tvg-rec="7",History FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/837/index.m3u8
-#EXTINF:0 tvg-rec="7",History HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/231/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2085/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2102/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty BBC FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15108/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Планета360 FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17026/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20140/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Experiment HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19412/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Макромир HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18194/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Мегамир HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18195/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Микромир HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18193/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Открытия HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19415/index.m3u8
-#EXTINF:0 tvg-rec="0",Museum TV HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20032/index.m3u8
-#EXTINF:0 tvg-rec="3",Nano
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2081/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14000/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14001/index.m3u8
-#EXTINF:0 tvg-rec="7",National Geographic Wild
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/133/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic Wild FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2415/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic Wild HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2067/index.m3u8
-#EXTINF:0 tvg-rec="7",RTG HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/210/index.m3u8
-#EXTINF:0 tvg-rec="7",RTG TV
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/841/index.m3u8
-#EXTINF:0 tvg-rec="7",Spirit TV HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10073/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Космо HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11065/index.m3u8
-#EXTINF:0 tvg-rec="7",TERRA
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/230/index.m3u8
-#EXTINF:0 tvg-rec="3",TERRA HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2416/index.m3u8
-#EXTINF:0 tvg-rec="0",The Explorers HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16035/index.m3u8
-#EXTINF:0 tvg-rec="7",Top Secret
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/121/index.m3u8
-#EXTINF:0 tvg-rec="7",Travel Channel HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/233/index.m3u8
-#EXTINF:0 tvg-rec="7",Travel+Adventure
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/850/index.m3u8
-#EXTINF:0 tvg-rec="0",TravelXP 4K
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20031/index.m3u8
-#EXTINF:0 tvg-rec="0",TravelXP HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15018/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Космос
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30197/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Explore
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/163/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6381/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/162/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/203/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Nature
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/161/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju Nature HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15225/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Planet HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9027/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31620/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Nature
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31618/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Science
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31617/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Travel
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31619/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Biography HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31697/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!History HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31695/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Military HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31696/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Science HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31705/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Travel HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17063/index.m3u8
-#EXTINF:0 tvg-rec="7",Zоопарк
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/731/index.m3u8
-#EXTINF:0 tvg-rec="3",Zоопарк HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9097/index.m3u8
-#EXTINF:0 tvg-rec="3",Арсенал HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5044/index.m3u8
-#EXTINF:0 tvg-rec="0",Арт
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16141/index.m3u8
-#EXTINF:0 tvg-rec="7",Большая Азия HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2009/index.m3u8
-#EXTINF:0 tvg-rec="3",В мире животных HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2089/index.m3u8
-#EXTINF:0 tvg-rec="0",Вкус HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31921/index.m3u8
-#EXTINF:0 tvg-rec="7",Время
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/552/index.m3u8
-#EXTINF:0 tvg-rec="3",Глазами Туриста HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2104/index.m3u8
-#EXTINF:0 tvg-rec="7",Доктор
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/512/index.m3u8
-#EXTINF:0 tvg-rec="0",Доктор HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20013/index.m3u8
-#EXTINF:0 tvg-rec="7",Домашние Животные
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/158/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая Планета
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2101/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая природа HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2074/index.m3u8
-#EXTINF:0 tvg-rec="7",ЖИВИ!
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/738/index.m3u8
-#EXTINF:0 tvg-rec="7",Загородная Жизнь
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/852/index.m3u8
-#EXTINF:0 tvg-rec="0",Загородная Жизнь HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7348/index.m3u8
-#EXTINF:0 tvg-rec="7",Здоровое ТВ
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2022/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоо ТВ
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2100/index.m3u8
-#EXTINF:0 tvg-rec="7",История
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/111/index.m3u8
-#EXTINF:0 tvg-rec="7",Кто есть кто
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2042/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто Куда
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2112/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир Вокруг HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15219/index.m3u8
-#EXTINF:0 tvg-rec="3",Мой Мир
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5008/index.m3u8
-#EXTINF:0 tvg-rec="7",Моя Планета
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/117/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2090/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Стихия
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9221/index.m3u8
-#EXTINF:0 tvg-rec="0",Моя Стихия HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7349/index.m3u8
-#EXTINF:0 tvg-rec="3",Надежда HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2153/index.m3u8
-#EXTINF:0 tvg-rec="3",Наука HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2155/index.m3u8
-#EXTINF:0 tvg-rec="0",Научпоп HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31924/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Сибирь HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4003/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Тема
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2118/index.m3u8
-#EXTINF:0 tvg-rec="0",Неизвестная Россия HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16087/index.m3u8
-#EXTINF:0 tvg-rec="7",Ностальгия
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/102/index.m3u8
-#EXTINF:0 tvg-rec="7",Океан HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/703/index.m3u8
-#EXTINF:0 tvg-rec="0",Патриот
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31928/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый Вегетарианский
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/833/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый космический HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/908/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый Российский Национальный Канал HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31923/index.m3u8
-#EXTINF:0 tvg-rec="3",Пёс и Ко
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2123/index.m3u8
-#EXTINF:0 tvg-rec="7",Поехали!
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/135/index.m3u8
-#EXTINF:0 tvg-rec="0",Поехали! HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14020/index.m3u8
-#EXTINF:0 tvg-rec="7",Психология
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2025/index.m3u8
-#EXTINF:0 tvg-rec="3",Ратник HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2119/index.m3u8
-#EXTINF:0 tvg-rec="3",РЖД ТВ
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9118/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия К
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/505/index.m3u8
-#EXTINF:0 tvg-rec="0",Сибирь 24 HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16000/index.m3u8
-#EXTINF:0 tvg-rec="7",Союз
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2016/index.m3u8
-#EXTINF:0 tvg-rec="3",Тайна
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2059/index.m3u8
-#EXTINF:0 tvg-rec="3",Телепутешествия
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2051/index.m3u8
-#EXTINF:0 tvg-rec="7",Точка.РФ FHD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/226/index.m3u8
-#EXTINF:0 tvg-rec="0",Точка.РФ HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19251/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Знание
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18134/index.m3u8
-#EXTINF:0 tvg-rec="7",Усадьба
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/532/index.m3u8
-#EXTINF:0 tvg-rec="0",Усадьба HD
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9071/index.m3u8
-#EXTINF:0 tvg-rec="3",Центральное телевидение
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2064/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Ну, погоди!
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30161/index.m3u8
 #EXTINF:0 tvg-rec="7",Ani
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/129/index.m3u8
@@ -2456,9 +2432,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11002/index.m3u8
 #EXTINF:0 tvg-rec="3",Duck TV HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1031/index.m3u8
-#EXTINF:0 tvg-rec="0",Funny Kids HD
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31918/index.m3u8
 #EXTINF:0 tvg-rec="7",Gulli Girl
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/109/index.m3u8
@@ -2516,7 +2489,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/108/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Kids
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31646/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV 101 долматинец
+#EXTINF:0 tvg-rec="0",Venera.TV 101 далматинец
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30198/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Peppa Pig
@@ -2528,13 +2501,13 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30194/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Барбоскины
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30195/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Бивис и Батт
+#EXTINF:0 tvg-rec="0",Venera.TV Бивис и Батт-Хед
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30193/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Воскресное утро 90х
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30152/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Вспыш и чудо
+#EXTINF:0 tvg-rec="0",Venera.TV Вспыш и чудо-машинки
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30155/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Вуди Вудпекер
@@ -2546,7 +2519,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30187/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Губка Боб
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30186/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Даша путешественница
+#EXTINF:0 tvg-rec="0",Venera.TV Даша-путешественница
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30181/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Енотки. Первые слова
@@ -2561,31 +2534,28 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30184/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Крепыш и команда
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30183/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Леди Баг
+#EXTINF:0 tvg-rec="0",Venera.TV Леди Баг и Супер-Кот
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30182/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Маша и медведь
+#EXTINF:0 tvg-rec="0",Venera.TV Маша и Медведь
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30180/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Микки Маус
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30179/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Мини
+#EXTINF:0 tvg-rec="0",Venera.TV Мини-мишки
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30178/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Мишки Гамми
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30177/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Ну погоди
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30161/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Охотники за привидениями
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30175/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Очень странные делишки
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30176/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.Tv Панда и антилопа
+#EXTINF:0 tvg-rec="0",Venera.TV Панда и Антилопа
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30174/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Подводная одиссея
@@ -2594,7 +2564,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30196/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Простоквашино
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30160/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Пчелка Майя
+#EXTINF:0 tvg-rec="0",Venera.TV Пчёлка Майя
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30173/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Рапунцель
@@ -2603,7 +2573,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30172/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Рик и Морти
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30171/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.Tv Розовая пантера
+#EXTINF:0 tvg-rec="0",Venera.TV Розовая пантера
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30170/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Свинка Пеппа
@@ -2633,7 +2603,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30156/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Фиксики
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30153/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Чип и Деил
+#EXTINF:0 tvg-rec="0",Venera.TV Чип и Дейл
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30191/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Чудеса на виражах
@@ -2678,6 +2648,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/737/index.m3u8
 #EXTINF:0 tvg-rec="0",В гостях у сказки HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20005/index.m3u8
+#EXTINF:0 tvg-rec="0",Весёлые малыши HD
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31918/index.m3u8
 #EXTINF:0 tvg-rec="7",Детский мир
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/543/index.m3u8
@@ -2699,6 +2672,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20009/index.m3u8
 #EXTINF:0 tvg-rec="0",Лёва HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15098/index.m3u8
+#EXTINF:0 tvg-rec="3",Малыш
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1041/index.m3u8
+#EXTINF:0 tvg-rec="0",Малыш HD
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15099/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/909/index.m3u8
@@ -2732,12 +2711,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2157/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2001/index.m3u8
-#EXTINF:0 tvg-rec="3",СуперГерои
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1041/index.m3u8
-#EXTINF:0 tvg-rec="0",СуперГерои HD
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15099/index.m3u8
 #EXTINF:0 tvg-rec="0",ТипТоп HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14007/index.m3u8
@@ -2828,24 +2801,21 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19431/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20028/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast & Fun Box
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15231/index.m3u8
 #EXTINF:0 tvg-rec="3",Fast & Fun Box HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1018/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast Sports
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30199/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast Sports 1
+#EXTINF:0 tvg-rec="0",Fast Sports 1 HD AM
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30200/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast Sports 2
+#EXTINF:0 tvg-rec="0",Fast Sports 2 HD AM
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30201/index.m3u8
-#EXTINF:0 tvg-rec="0",FightBox
+#EXTINF:0 tvg-rec="0",Fast Sports FHD AM
 #EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15232/index.m3u8
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30199/index.m3u8
+#EXTINF:0 tvg-rec="3",Fight Club
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9170/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 1
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20091/index.m3u8
@@ -2873,27 +2843,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2403/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19396/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Гонг HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31503/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Спорт HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31612/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Футбол 1 HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31483/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Футбол 2 HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31505/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Футбол 3 HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31504/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Футбол 4 HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31613/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo Футбол 5 HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31614/index.m3u8
 #EXTINF:0 tvg-rec="7",MMA-TV.com
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/843/index.m3u8
@@ -2927,12 +2879,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16040/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2077/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Baltic 1 FHD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5069/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20081/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 HD orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5069/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Moldova FHD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20074/index.m3u8
@@ -3194,9 +3146,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31533/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 28
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31534/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 29
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31535/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 3
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14188/index.m3u8
@@ -3305,12 +3254,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7363/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 5
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7364/index.m3u8
-#EXTINF:0 tvg-rec="7",Удар FHD
+#EXTINF:0 tvg-rec="7",Удар HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2000/index.m3u8
-#EXTINF:0 tvg-rec="0",Удар HD
-#EXTGRP:Спортивные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19246/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5050/index.m3u8
@@ -3344,21 +3290,18 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31600/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 3 HD RS
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31601/index.m3u8
-#EXTINF:0 tvg-rec="0",Arena Premium 3 RS
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31604/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7263/index.m3u8
+#EXTINF:0 tvg-rec="3",Arena Sport 1 FHD RS
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2550/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7329/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 HD RS
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31602/index.m3u8
-#EXTINF:0 tvg-rec="3",Arena Sport 1 HD SK
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2550/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31611/index.m3u8
@@ -3413,9 +3356,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31609/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 9 HD RS
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31610/index.m3u8
-#EXTINF:0 tvg-rec="0",Auto Motor und Sport FHD DE
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31290/index.m3u8
 #EXTINF:0 tvg-rec="0",Band Sports BR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6158/index.m3u8
@@ -3455,12 +3395,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19064/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19062/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FHD TR
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19063/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD TR
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19066/index.m3u8
 #EXTINF:0 tvg-rec="0",Benfica TV HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31952/index.m3u8
@@ -3716,9 +3650,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12048/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6556/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19040/index.m3u8
 #EXTINF:0 tvg-rec="3",Extreme Sports orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9160/index.m3u8
@@ -3731,7 +3662,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19152/index.m3u8
 #EXTINF:0 tvg-rec="0",Fight Network HD CA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31960/index.m3u8
-#EXTINF:0 tvg-rec="0",FightBox HD PT
+#EXTINF:0 tvg-rec="0",FightBox HD
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31961/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
@@ -3755,9 +3686,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19144/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 1 HD EE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18000/index.m3u8
-#EXTINF:0 tvg-rec="3",Go3 Sport 1 HD LT
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6417/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 1 HD LV
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18011/index.m3u8
@@ -3953,12 +3881,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14032/index.m3u8
 #EXTINF:0 tvg-rec="0",Rai Sport HD IT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19106/index.m3u8
-#EXTINF:0 tvg-rec="0",Real Madrid TV FHD ES
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31847/index.m3u8
-#EXTINF:0 tvg-rec="0",Real Madrid TV HD ES
+#EXTINF:0 tvg-rec="0",Real Madrid TV eng ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15248/index.m3u8
+#EXTINF:0 tvg-rec="0",Real Madrid TV ES
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31847/index.m3u8
 #EXTINF:0 tvg-rec="0",Red Bull TV HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16039/index.m3u8
@@ -3971,9 +3899,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2546/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2547/index.m3u8
-#EXTINF:0 tvg-rec="0",Servus TV Motorsport HD DE
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31385/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6541/index.m3u8
@@ -4097,9 +4022,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7239/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7240/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6097/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7241/index.m3u8
@@ -4259,12 +4181,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7278/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub Golf HR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7277/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport Live HD DK
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31589/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport Live HD DK
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12075/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV 1 FHD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31942/index.m3u8
@@ -4412,15 +4328,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12042/index.m3u8
 #EXTINF:0 tvg-rec="3",TVP Sport HD PL
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2520/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 1 HD UA
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14193/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 2 HD UA
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14194/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 3 HD UA
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14195/index.m3u8
 #EXTINF:0 tvg-rec="0",UPL TV HD UA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31446/index.m3u8
@@ -4469,12 +4376,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31904/index.m3u8
 #EXTINF:0 tvg-rec="0",W-Sport HD
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31959/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport HD UA
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/996/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport HD UA orig
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5077/index.m3u8
 #EXTINF:0 tvg-rec="3",YAS Sports AE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2511/index.m3u8
@@ -4523,9 +4424,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11061/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP USSR HD
 #EXTGRP:СССР
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/13005/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Назад в СССР HD
-#EXTGRP:СССР
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20175/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS СССР
 #EXTGRP:СССР
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31643/index.m3u8
@@ -4550,9 +4448,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31934/index.m3u8
 #EXTINF:0 tvg-rec="3",Советская киноклассика HD
 #EXTGRP:СССР
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2146/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
-#EXTGRP:СССР
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18135/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX AutoTrend HD
 #EXTGRP:Мужские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31654/index.m3u8
@@ -4619,9 +4514,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2019/index.m3u8
 #EXTINF:0 tvg-rec="7",Охотник и Рыболов HD
 #EXTGRP:Мужские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/917/index.m3u8
-#EXTINF:0 tvg-rec="0",Рыболов HD
-#EXTGRP:Мужские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19254/index.m3u8
 #EXTINF:0 tvg-rec="7",Точка Отрыва
 #EXTGRP:Мужские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/159/index.m3u8
@@ -4637,19 +4529,16 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1010/index.m3u8
 #EXTINF:0 tvg-rec="7",Fashion & Lifestyle HD
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2044/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion TV FHD
-#EXTGRP:Женские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2411/index.m3u8
 #EXTINF:0 tvg-rec="7",Fashion TV HD
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2045/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion TV UHD
+#EXTINF:0 tvg-rec="3",Fashion TV HD orig
 #EXTGRP:Женские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4005/index.m3u8
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2411/index.m3u8
 #EXTINF:0 tvg-rec="0",FashionBox HD
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20038/index.m3u8
-#EXTINF:0 tvg-rec="3",HGTV FHD
+#EXTINF:0 tvg-rec="3",HGTV HD
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1084/index.m3u8
 #EXTINF:0 tvg-rec="3",HGTV HD
@@ -4766,7 +4655,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14008/index.m3u8
 #EXTINF:0 tvg-rec="0",Classic Music HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14009/index.m3u8
-#EXTINF:0 tvg-rec="3",Clubbing TV HD
+#EXTINF:0 tvg-rec="3",Dance TV Mainstream EDM
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2395/index.m3u8
 #EXTINF:0 tvg-rec="7",Deejay TV HD IT
@@ -4799,6 +4688,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/115/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20029/index.m3u8
+#EXTINF:0 tvg-rec="7",FON Music
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/710/index.m3u8
+#EXTINF:0 tvg-rec="0",FON Music HD
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19223/index.m3u8
 #EXTINF:0 tvg-rec="0",FRESH Concerts HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18091/index.m3u8
@@ -4880,15 +4775,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19255/index.m3u8
 #EXTINF:0 tvg-rec="0",NM Television HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20161/index.m3u8
-#EXTINF:0 tvg-rec="0",Now 70s UK
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19194/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 80s UK
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19196/index.m3u8
-#EXTINF:0 tvg-rec="0",Now Rock UK
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19197/index.m3u8
 #EXTINF:0 tvg-rec="0",NRG 91 HD GR
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7223/index.m3u8
@@ -4904,27 +4793,27 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31558/index.m3u8
 #EXTINF:0 tvg-rec="3",RFM TV HD FR
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1038/index.m3u8
-#EXTINF:0 tvg-rec="7",RU TV
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/838/index.m3u8
-#EXTINF:0 tvg-rec="0",RU TV HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19247/index.m3u8
 #EXTINF:0 tvg-rec="3",SONGTV Россия HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6394/index.m3u8
 #EXTINF:0 tvg-rec="0",Stars TV PL
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19168/index.m3u8
+#EXTINF:0 tvg-rec="0",That's 70s UK
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19194/index.m3u8
+#EXTINF:0 tvg-rec="0",Thats 80s UK
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17057/index.m3u8
+#EXTINF:0 tvg-rec="0",That's Rock UK
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19197/index.m3u8
 #EXTINF:0 tvg-rec="0",Trace Urban HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15107/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Балет Опера HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18083/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Музыка 1 HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18077/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Музыка 1 International
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18078/index.m3u8
@@ -4943,36 +4832,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18082/index.m3u8
 #EXTINF:0 tvg-rec="0",V2BEAT HD UK
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15020/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Best Live Performances
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16003/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Dance Hits of 90s
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14154/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Eurodance Hits 90s
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20000/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Greatest Hits
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31622/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Modern Talking and Co
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17052/index.m3u8
-#EXTINF:0 tvg-rec="0",VB MTV Old Россия HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20174/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Romantic and Ballads
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16014/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Russian Dance Hits of 90s
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14156/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Yo! MTV HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31623/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Русская Попса 80х-90х
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14155/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Dj Set
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31639/index.m3u8
@@ -5051,9 +4910,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2129/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай ТВ
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2061/index.m3u8
-#EXTINF:0 tvg-rec="0",Мелодии и ритмы зарубежной эстрады
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17057/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2137/index.m3u8
@@ -5066,6 +4922,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2043/index.m3u8
 #EXTINF:0 tvg-rec="7",Музыка Первого
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/155/index.m3u8
+#EXTINF:0 tvg-rec="0",Музыка Первого HD
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18077/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2068/index.m3u8
@@ -5081,24 +4940,24 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14145/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14142/index.m3u8
-#EXTINF:0 tvg-rec="0",Радио LoveIsRadio.by HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16015/index.m3u8
 #EXTINF:0 tvg-rec="0",Радио Хит HD (Орск)
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17048/index.m3u8
 #EXTINF:0 tvg-rec="0",Радио Шансон HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16036/index.m3u8
+#EXTINF:0 tvg-rec="7",РУ.ТВ
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/838/index.m3u8
+#EXTINF:0 tvg-rec="0",РУ.ТВ HD
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19247/index.m3u8
+#EXTINF:0 tvg-rec="0",Сочный Music
+#EXTGRP:Музыкальные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16070/index.m3u8
 #EXTINF:0 tvg-rec="0",Страна FM HD
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14152/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ Music
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/710/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ Music HD
-#EXTGRP:Музыкальные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19223/index.m3u8
 #EXTINF:0 tvg-rec="7",Шансон ТВ
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/859/index.m3u8
@@ -5165,9 +5024,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5060/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 5 HD BY
 #EXTGRP:Беларусь
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2177/index.m3u8
-#EXTINF:0 tvg-rec="3",БелРос BY
-#EXTGRP:Беларусь
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5062/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Беларусь BY
 #EXTGRP:Беларусь
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19371/index.m3u8
@@ -5186,15 +5042,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31912/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный HD BY
 #EXTGRP:Беларусь
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14144/index.m3u8
+#EXTINF:0 tvg-rec="3",Союзный
+#EXTGRP:Беларусь
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5062/index.m3u8
 #EXTINF:0 tvg-rec="3",СТВ BY
 #EXTGRP:Беларусь
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2172/index.m3u8
 #EXTINF:0 tvg-rec="3",СТВ HD BY
 #EXTGRP:Беларусь
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2184/index.m3u8
-#EXTINF:0 tvg-rec="0",4K Русское кино HD
-#EXTGRP:4K
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31925/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Kids 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17023/index.m3u8
@@ -5237,9 +5093,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31550/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31551/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 4K
-#EXTGRP:4K
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31475/index.m3u8
 #EXTINF:0 tvg-rec="3",Home 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/4002/index.m3u8
@@ -5324,6 +5177,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11114/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Сериал 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS-ка Русское кино HD
+#EXTGRP:4K
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31925/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV 4K
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16153/index.m3u8
@@ -5348,7 +5204,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19405/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19241/index.m3u8
-#EXTINF:0 tvg-rec="0",РЕН UHD
+#EXTINF:0 tvg-rec="0",РЕН ТВ UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19404/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 UHD
@@ -5945,9 +5801,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6269/index.m3u8
 #EXTINF:0 tvg-rec="3",XXL
 #EXTGRP:18+
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5009/index.m3u8
-#EXTINF:0 tvg-rec="0",XXX Love's Berry HD
-#EXTGRP:18+
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14140/index.m3u8
 #EXTINF:0 tvg-rec="0",XY Max HD
 #EXTGRP:18+
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6286/index.m3u8
