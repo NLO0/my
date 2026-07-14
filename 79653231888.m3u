@@ -440,6 +440,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9221/index.m3u8
 #EXTINF:0 tvg-rec="0",Моя Стихия HD
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7349/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:Познавательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2116/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда HD
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2153/index.m3u8
@@ -533,9 +536,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9071/index.m3u8
 #EXTINF:0 tvg-rec="3",Центральное телевидение
 #EXTGRP:Познавательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2064/index.m3u8
-#EXTGRP:Кино и сериалы
-#EXTGRP:Познавательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18134/index.m3u8
 #EXTINF:0 tvg-rec="7",2x2
 #EXTGRP:Развлекательные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/702/index.m3u8
@@ -1052,12 +1052,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/734/index.m3u8
 #EXTINF:0 tvg-rec="0",FAN HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16021/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1071/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox ArtHouse
+#EXTINF:0 tvg-rec="0",FilmBox+ Festival
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15265/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox+ One
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1071/index.m3u8
 #EXTINF:0 tvg-rec="7",FlixSnip HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10060/index.m3u8
@@ -2129,6 +2129,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18132/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 9 (Триколор)
+#EXTGRP:Кино и сериалы
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18134/index.m3u8
 #EXTINF:0 tvg-rec="7",Иллюзион+
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2038/index.m3u8
@@ -2150,9 +2153,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/550/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинеко HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9135/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино UHD 4K
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5004/index.m3u8
 #EXTINF:0 tvg-rec="7",Кино ТВ
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/732/index.m3u8
@@ -2372,9 +2372,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/553/index.m3u8
 #EXTINF:0 tvg-rec="3",Сапфир HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6389/index.m3u8
-#EXTINF:0 tvg-rec="3",Сериал UHD 4K
-#EXTGRP:Кино и сериалы
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5005/index.m3u8
 #EXTINF:0 tvg-rec="0",Страшное HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7247/index.m3u8
@@ -2396,9 +2393,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2438/index.m3u8
 #EXTINF:0 tvg-rec="3",Шокирующее HD
 #EXTGRP:Кино и сериалы
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6299/index.m3u8
-#EXTINF:0 tvg-rec="0",Venera.TV Ну, погоди!
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30161/index.m3u8
 #EXTINF:0 tvg-rec="7",Ani
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/129/index.m3u8
@@ -2462,9 +2456,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19409/index.m3u8
 #EXTINF:0 tvg-rec="7",Nick Jr.
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/114/index.m3u8
-#EXTINF:0 tvg-rec="7",Nick Jr.
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/144/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/541/index.m3u8
@@ -2549,6 +2540,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30178/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Мишки Гамми
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30177/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Ну, погоди!
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30161/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV Охотники за привидениями
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30175/index.m3u8
@@ -2672,12 +2666,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20009/index.m3u8
 #EXTINF:0 tvg-rec="0",Лёва HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15098/index.m3u8
-#EXTINF:0 tvg-rec="3",Малыш
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1041/index.m3u8
-#EXTINF:0 tvg-rec="0",Малыш HD
-#EXTGRP:Детские
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15099/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/909/index.m3u8
@@ -2711,6 +2699,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2157/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2001/index.m3u8
+#EXTINF:0 tvg-rec="3",СуперГерои
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1041/index.m3u8
+#EXTINF:0 tvg-rec="0",СуперГерои HD
+#EXTGRP:Детские
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15099/index.m3u8
 #EXTINF:0 tvg-rec="0",ТипТоп HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14007/index.m3u8
@@ -2723,27 +2717,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9191/index.m3u8
 #EXTINF:0 tvg-rec="0",Чижик HD
 #EXTGRP:Детские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/14034/index.m3u8
-#EXTINF:0 tvg-rec="7",Da Vinci
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/537/index.m3u8
-#EXTINF:0 tvg-rec="0",English Class HD
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15190/index.m3u8
-#EXTINF:0 tvg-rec="3",English Club TV
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/993/index.m3u8
-#EXTINF:0 tvg-rec="0",Univer TV HD
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15113/index.m3u8
-#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2020/index.m3u8
-#EXTINF:0 tvg-rec="0",Московское образование HD
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16043/index.m3u8
-#EXTINF:0 tvg-rec="3",Нано ТВ HD
-#EXTGRP:Образовательные
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2135/index.m3u8
 #EXTINF:0 tvg-rec="0",Betking Live 1
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31679/index.m3u8
@@ -2798,6 +2771,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/234/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 UHD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19431/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/144/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20028/index.m3u8
@@ -2843,6 +2819,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2403/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19396/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10028/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Спорт HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31612/index.m3u8
@@ -3008,18 +2987,27 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2413/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/212/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10020/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/528/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/207/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Арена HD orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9010/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Боец
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/150/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Боец HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19221/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Боец orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9159/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/529/index.m3u8
@@ -3029,6 +3017,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2406/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/225/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Игра HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10014/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD 50 orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9032/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9034/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/123/index.m3u8
@@ -3041,12 +3038,21 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2414/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Премьер HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/220/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Премьер HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10021/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9246/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Страна
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/107/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Страна HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19219/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Страна orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9157/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/124/index.m3u8
@@ -3056,6 +3062,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2407/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/222/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10015/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5072/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/530/index.m3u8
@@ -3065,6 +3077,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2420/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/211/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10027/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/290/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/522/index.m3u8
@@ -3074,6 +3092,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2408/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/206/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 HD 50
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10016/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:Спортивные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5071/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Баскетбола
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10033/index.m3u8
@@ -3266,15 +3290,63 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19244/index.m3u8
 #EXTINF:0 tvg-rec="0",Хоккей ТВ HD
 #EXTGRP:Спортивные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/10039/index.m3u8
+#EXTINF:0 tvg-rec="7",Da Vinci
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/537/index.m3u8
+#EXTINF:0 tvg-rec="0",English Class HD
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15190/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/993/index.m3u8
+#EXTINF:0 tvg-rec="0",Univer TV HD
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15113/index.m3u8
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2020/index.m3u8
+#EXTINF:0 tvg-rec="0",Московское образование HD
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16043/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ HD
+#EXTGRP:Образовательные
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2135/index.m3u8
 #EXTINF:0 tvg-rec="0",5Sport 4K IL
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16019/index.m3u8
+#EXTINF:0 tvg-rec="3",5Sport FHD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2341/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport Gold HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12254/index.m3u8
+#EXTINF:0 tvg-rec="3",5Sport HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2391/index.m3u8
+#EXTINF:0 tvg-rec="3",5Sport Live FHD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2362/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport Live HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12255/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport Stars FHD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12278/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport Stars HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12232/index.m3u8
 #EXTINF:0 tvg-rec="0",A Bola TV HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31951/index.m3u8
 #EXTINF:0 tvg-rec="0",A Spor HD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19069/index.m3u8
+#EXTINF:0 tvg-rec="3",A Spor TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6832/index.m3u8
+#EXTINF:0 tvg-rec="0",Altitude Sports HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31000/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Esport HD RS
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31597/index.m3u8
@@ -3368,39 +3440,72 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2499/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 1 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6123/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6781/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 2 HD FR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2500/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6818/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 3 HD FR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2501/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 3 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6124/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6821/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 4 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6125/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 4 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6823/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 4 US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31051/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 5 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6126/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 5 US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31052/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 6 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6127/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 6 US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31053/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 7 HD QA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6128/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 7 US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31054/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports En Español HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30015/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Haber HD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19064/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19062/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports Max 1 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6824/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31048/index.m3u8
+#EXTINF:0 tvg-rec="0",Benfica TV FHD PT
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19160/index.m3u8
 #EXTINF:0 tvg-rec="0",Benfica TV HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31952/index.m3u8
-#EXTINF:0 tvg-rec="0",Benfica TV HD PT
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19160/index.m3u8
 #EXTINF:0 tvg-rec="0",Best4Sport 2 HD LV
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18015/index.m3u8
@@ -3425,6 +3530,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2502/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport HD PL
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6098/index.m3u8
+#EXTINF:0 tvg-rec="3",CBC Sport AZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2193/index.m3u8
 #EXTINF:0 tvg-rec="0",CBS Sports Network HD US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7324/index.m3u8
@@ -3518,12 +3626,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31956/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 4 Bar HD ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31862/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2534/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 4 HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31957/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2534/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2535/index.m3u8
@@ -3593,15 +3701,27 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19057/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN BR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19060/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN Deportes HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30063/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN HD BR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19056/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN HD US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19156/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNews HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30066/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPNews US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19154/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNU HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30067/index.m3u8
+#EXTINF:0 tvg-rec="0",eSports ONE HD DE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31311/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15179/index.m3u8
@@ -3620,9 +3740,15 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20058/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31949/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD RO
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6992/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD SE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12047/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6829/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9247/index.m3u8
@@ -3653,12 +3779,66 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6556/index.m3u8
 #EXTINF:0 tvg-rec="3",Extreme Sports orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9160/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31001/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31005/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Midwest US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19153/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31015/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31017/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports North US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19152/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31030/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31019/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31032/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31034/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31035/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31036/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31039/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31013/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31041/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31043/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31044/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31046/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31047/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports HD AM
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15507/index.m3u8
 #EXTINF:0 tvg-rec="0",Fight Network HD CA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31960/index.m3u8
@@ -3671,6 +3851,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7322/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7323/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/30078/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 501 Cricket HD AU
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19146/index.m3u8
@@ -3683,6 +3866,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19138/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports Racing US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19144/index.m3u8
+#EXTINF:0 tvg-rec="3",Fuel TV
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2396/index.m3u8
+#EXTINF:0 tvg-rec="0",Futbol TV UZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20187/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Sport 1 HD EE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18000/index.m3u8
@@ -3707,6 +3896,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/18025/index.m3u8
 #EXTINF:0 tvg-rec="0",Gol HD ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31863/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6481/index.m3u8
+#EXTINF:0 tvg-rec="3",Idman TV HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6840/index.m3u8
 #EXTINF:0 tvg-rec="3",Infosport+ HD FR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2544/index.m3u8
@@ -3719,6 +3914,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31865/index.m3u8
 #EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion HD ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31823/index.m3u8
+#EXTINF:0 tvg-rec="0",Liverpool FC TV UK
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31596/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Deportes 2 HD ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31835/index.m3u8
@@ -3791,12 +3989,21 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31867/index.m3u8
 #EXTINF:0 tvg-rec="0",M4 Sport HD HU
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31519/index.m3u8
+#EXTINF:0 tvg-rec="0",MLB Network HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6512/index.m3u8
+#EXTINF:0 tvg-rec="0",Monumental Sports Network HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31056/index.m3u8
 #EXTINF:0 tvg-rec="0",More Than Sports TV HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31341/index.m3u8
 #EXTINF:0 tvg-rec="3",Motorvision+ DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6112/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Sport HD DE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31343/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV Viihde HD FI
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2541/index.m3u8
@@ -3815,9 +4022,21 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31209/index.m3u8
 #EXTINF:0 tvg-rec="0",NBC Sports Network HD US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7327/index.m3u8
+#EXTINF:0 tvg-rec="0",NESN HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11109/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL Network US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31011/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL RedZone HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31012/index.m3u8
 #EXTINF:0 tvg-rec="0",NHL Network HD US
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7328/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7225/index.m3u8
 #EXTINF:0 tvg-rec="3",Nova Sport 1 HD CZ
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2555/index.m3u8
@@ -3869,6 +4088,18 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2160/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 2 HD UK
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2069/index.m3u8
+#EXTINF:0 tvg-rec="3",Prima Sport 1 HD RO
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7059/index.m3u8
+#EXTINF:0 tvg-rec="3",Prima Sport 2 HD RO
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7060/index.m3u8
+#EXTINF:0 tvg-rec="3",Pro Arena HD RO
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6990/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Arena HD KZ
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20061/index.m3u8
@@ -3899,12 +4130,30 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2546/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2547/index.m3u8
+#EXTINF:0 tvg-rec="3",S Sport HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6825/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7169/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16026/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6541/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7168/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/16025/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6542/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 3 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2209/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports HD UA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31755/index.m3u8
@@ -3923,6 +4172,24 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15184/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ UA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31756/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 1 FHD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20144/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 1 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19330/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 2 FHD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20145/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 2 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19331/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 3 FHD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20146/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Sport 3 HD GE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19332/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky 1 AU
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6122/index.m3u8
@@ -4058,6 +4325,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2477/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5042/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Top Event HD DE
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19003/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport UHD DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19044/index.m3u8
@@ -4103,6 +4373,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9310/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7339/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9314/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9334/index.m3u8
@@ -4121,6 +4394,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6546/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9248/index.m3u8
+#EXTINF:0 tvg-rec="0",Spectrum SportsNet HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11108/index.m3u8
 #EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19073/index.m3u8
@@ -4133,6 +4409,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2503/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 1 HD HU
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31568/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 1 HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12249/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 1 HD LT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6367/index.m3u8
@@ -4145,12 +4424,27 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2557/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 2 HD HU
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31569/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 2 HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12250/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 3 HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12251/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 3 HD UA
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31445/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 4 FHD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/12252/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 4 HD IL
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2389/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Extra HD RO
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31595/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport HD UZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20203/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 1 HD HR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/7269/index.m3u8
@@ -4226,6 +4520,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31941/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV+ HD PT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31590/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport UZ
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2239/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportdigital Fussball DE
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31411/index.m3u8
@@ -4241,6 +4538,30 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31953/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportitalia Plus HD IT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19108/index.m3u8
+#EXTINF:0 tvg-rec="3",Sports TV HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6828/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet 360 HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6462/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet East HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6477/index.m3u8
+#EXTINF:0 tvg-rec="0",SportsNet New York HD US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/11107/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet ONE HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6438/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet Ontario HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6439/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet Pacific HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6479/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet West HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6478/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Sports 1 IN
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2508/index.m3u8
@@ -4253,12 +4574,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6079/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19111/index.m3u8
-#EXTINF:0 tvg-rec="0",Super Tennis IT
-#EXTGRP:Иностранный спорт
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19136/index.m3u8
 #EXTINF:0 tvg-rec="0",Teledeporte HD ES
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31857/index.m3u8
+#EXTINF:0 tvg-rec="0",Tennis Channel US
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19136/index.m3u8
 #EXTINF:0 tvg-rec="0",Tivibu Spor 1 HD TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19074/index.m3u8
@@ -4298,6 +4619,12 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19072/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT Spor TR
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19067/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Spor Yildiz HD TR
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2145/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 4 HD CA
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6445/index.m3u8
 #EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2540/index.m3u8
@@ -4373,6 +4700,9 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/9249/index.m3u8
 #EXTINF:0 tvg-rec="0",We Sport TV HD MD
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31904/index.m3u8
+#EXTINF:0 tvg-rec="3",We Sport TV MD
+#EXTGRP:Иностранный спорт
+http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/2471/index.m3u8
 #EXTINF:0 tvg-rec="0",W-Sport HD
 #EXTGRP:Иностранный спорт
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/31959/index.m3u8
@@ -4541,7 +4871,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/20038/index.m3u8
 #EXTINF:0 tvg-rec="3",HGTV HD
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/1084/index.m3u8
-#EXTINF:0 tvg-rec="3",HGTV HD
+#EXTINF:0 tvg-rec="3",HGTV HD US
 #EXTGRP:Женские
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/6391/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
@@ -4802,7 +5132,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19168/index.m3u8
 #EXTINF:0 tvg-rec="0",That's 70s UK
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19194/index.m3u8
-#EXTINF:0 tvg-rec="0",Thats 80s UK
+#EXTINF:0 tvg-rec="0",That's 80s UK
 #EXTGRP:Музыкальные
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/17057/index.m3u8
 #EXTINF:0 tvg-rec="0",That's Rock UK
@@ -5189,7 +5519,7 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/15191/index.m3u8
 #EXTINF:0 tvg-rec="3",Инсайт ТВ UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5000/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTINF:0 tvg-rec="3",Кино UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5004/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша Сибирь 4K
@@ -5210,9 +5540,6 @@ http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19404/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19242/index.m3u8
-#EXTINF:0 tvg-rec="3",Сериал UHD 4K
-#EXTGRP:4K
-http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/5005/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ UHD
 #EXTGRP:4K
 http://5716f21h.tvclub.xyz/iptv/GLQMVHF9B5GA58PALMAU5RR9/19238/index.m3u8
